@@ -5,8 +5,8 @@ I am a senior Applied Computer Sceince student at Oregon State University.<br />
 I’m interested in web, app, and VR development and currently have a focus area in these fields. You can reach me on LinkedIn or Instagram.<br />
 
 ## Contact Me 📫
-[Let's be connected on LinkedIn](https://www.linkedin.com/in/alima-matyeva-88987819a)<br />
-[Or check my profile on Instagram](https://www.instagram.com/peaceminus15/)
+[Let's be connected on LinkedIn!](https://www.linkedin.com/in/alima-matyeva-88987819a)<br />
+[And don't forget to check out my profile on Instagram](https://www.instagram.com/peaceminus15/)✨
 
 
 <!---

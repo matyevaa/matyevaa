@@ -1,8 +1,8 @@
 ## 👋 Hey, I’m Alima! 
 
-I am from the Kyrgyz Republic a.k.a. Kyrgyzstan. Besides English, I do speak Russian and Kyrgyz.<br />
+I am from the Kyrgyz Republic a.k.a. Kyrgyzstan.<br />
 I am a senior Applied Computer Sceince student at Oregon State University.<br />
-I’m interested in web and VR development.<br />
+I’m interested in web and virtual reality development.<br />
 
 ## 📫 Contact Me
 [Let's be connected on LinkedIn!](https://www.linkedin.com/in/alima-matyeva-88987819a)<br />

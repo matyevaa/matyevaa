@@ -1,7 +1,7 @@
 ## 👋 Hey, I’m Alima! 
 
 I am from Kyrgyzstan.<br />
-I've graduated from Oregon State University with bachelor degree in Applied Computer Sceince student in 2022.<br />
+I've graduated from Oregon State University with bachelor degree in Applied Computer Sceince in 2022.<br />
 I’m interested in web and virtual reality development.<br />
 
 ## 📫 Contact Me

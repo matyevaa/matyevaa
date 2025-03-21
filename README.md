@@ -6,7 +6,6 @@ I’m interested in web and virtual reality development.<br />
 
 ## 📫 Contact Me
 [Let's be connected on LinkedIn!](https://www.linkedin.com/in/alima-matyeva-88987819a)<br />
-[And don't forget to check out my profile on Instagram](https://www.instagram.com/peaceminus15/)✨
 
 
 <!---
